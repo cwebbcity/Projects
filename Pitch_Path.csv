@@ -40,6 +40,10 @@
 38,-0.698,2.244,Changeup
 39,-0.669,2.127,Changeup
 40,-0.64,2.01,Changeup
+41,-0.64,2.01,Changeup
+42,-0.64,2.01,Changeup
+43,-0.64,2.01,Changeup
+44,-0.64,2.01,Changeup
 0,-1.67,6.79,Curveball
 1,-1.623636364,6.678863636,Curveball
 2,-1.577272727,6.567727273,Curveball
@@ -85,6 +89,7 @@
 42,0.277272727,2.122272727,Curveball
 43,0.323636364,2.011136364,Curveball
 44,0.37,1.9,Curveball
+45,0.37,1.9,Curveball
 0,-1.43,6.72,Four-Seam Fastball
 1,-1.392702703,6.616486486,Four-Seam Fastball
 2,-1.355405405,6.512972973,Four-Seam Fastball
@@ -123,6 +128,13 @@
 35,-0.124594595,3.097027027,Four-Seam Fastball
 36,-0.087297297,2.993513514,Four-Seam Fastball
 37,-0.05,2.89,Four-Seam Fastball
+38,-0.05,2.89,Four-Seam Fastball
+39,-0.05,2.89,Four-Seam Fastball
+40,-0.05,2.89,Four-Seam Fastball
+41,-0.05,2.89,Four-Seam Fastball
+42,-0.05,2.89,Four-Seam Fastball
+43,-0.05,2.89,Four-Seam Fastball
+45,-0.05,2.89,Four-Seam Fastball
 0,-1.55,6.68,Slider
 1,-1.494,6.5575,Slider
 2,-1.438,6.435,Slider
@@ -164,3 +176,8 @@
 38,0.578,2.025,Slider
 39,0.634,1.9025,Slider
 40,0.69,1.78,Slider
+41,0.69,1.78,Slider
+42,0.69,1.78,Slider
+43,0.69,1.78,Slider
+44,0.69,1.78,Slider
+45,0.69,1.78,Slider

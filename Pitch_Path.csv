@@ -40,6 +40,22 @@
 3.8,-0.698,2.244,Changeup
 3.9,-0.669,2.127,Changeup
 4,-0.64,2.01,Changeup
+4.1,-0.611,1.893,Changeup
+4.2,-0.582,1.776,Changeup
+4.3,-0.553,1.659,Changeup
+4.4,-0.524,1.542,Changeup
+4.5,-0.495,1.425,Changeup
+4.6,-0.466,1.308,Changeup
+4.7,-0.437,1.191,Changeup
+4.8,-0.408,1.074,Changeup
+4.9,-0.379,0.957,Changeup
+5,-0.35,0.84,Changeup
+5.1,-0.321,0.723,Changeup
+5.2,-0.292,0.606,Changeup
+5.3,-0.263,0.489,Changeup
+5.4,-0.234,0.372,Changeup
+5.5,-0.205,0.255,Changeup
+4,-0.64,2.01,Changeup
 4.1,-0.64,2.01,Changeup
 4.2,-0.64,2.01,Changeup
 4.3,-0.64,2.01,Changeup
@@ -50,6 +66,16 @@
 4.8,-0.64,2.01,Changeup
 4.9,-0.64,2.01,Changeup
 5,-0.64,2.01,Changeup
+5.1,-0.64,2.01,Changeup
+5.2,-0.64,2.01,Changeup
+5.3,-0.64,2.01,Changeup
+5.4,-0.64,2.01,Changeup
+5.5,-0.64,2.01,Changeup
+5.6,-0.64,2.01,Changeup
+5.7,-0.64,2.01,Changeup
+5.8,-0.64,2.01,Changeup
+5.9,-0.64,2.01,Changeup
+6,-0.64,2.01,Changeup
 0,-1.67,6.79,Curveball
 0.1,-1.623636364,6.678863636,Curveball
 0.2,-1.577272727,6.567727273,Curveball
@@ -95,12 +121,33 @@
 4.2,0.277272727,2.122272727,Curveball
 4.3,0.323636364,2.011136364,Curveball
 4.4,0.37,1.9,Curveball
+4.5,0.416363636,1.788863636,Curveball
+4.6,0.462727272,1.677727272,Curveball
+4.7,0.509090908,1.566590908,Curveball
+4.8,0.555454544,1.455454544,Curveball
+4.9,0.60181818,1.34431818,Curveball
+5,0.648181816,1.233181816,Curveball
+5.1,0.694545452,1.122045452,Curveball
+5.2,0.740909088,1.010909088,Curveball
+5.3,0.787272724,0.899772724,Curveball
+5.4,0.83363636,0.78863636,Curveball
+5.5,0.879999996,0.677499996,Curveball
 4.5,0.37,1.9,Curveball
 4.6,0.37,1.9,Curveball
 4.7,0.37,1.9,Curveball
 4.8,0.37,1.9,Curveball
 4.9,0.37,1.9,Curveball
 5,0.37,1.9,Curveball
+5.1,0.37,1.9,Curveball
+5.2,0.37,1.9,Curveball
+5.3,0.37,1.9,Curveball
+5.4,0.37,1.9,Curveball
+5.5,0.37,1.9,Curveball
+5.6,0.37,1.9,Curveball
+5.7,0.37,1.9,Curveball
+5.8,0.37,1.9,Curveball
+5.9,0.37,1.9,Curveball
+6,0.37,1.9,Curveball
 0,-1.43,6.72,Four-Seam Fastball
 0.1,-1.392702703,6.616486486,Four-Seam Fastball
 0.2,-1.355405405,6.512972973,Four-Seam Fastball
@@ -139,6 +186,24 @@
 3.5,-0.124594595,3.097027027,Four-Seam Fastball
 3.6,-0.087297297,2.993513514,Four-Seam Fastball
 3.7,-0.05,2.89,Four-Seam Fastball
+3.8,-0.012702701,2.786486488,Four-Seam Fastball
+3.9,0.024594597,2.682972975,Four-Seam Fastball
+4,0.061891895,2.579459462,Four-Seam Fastball
+4.1,0.099189193,2.475945949,Four-Seam Fastball
+4.2,0.136486491,2.372432436,Four-Seam Fastball
+4.3,0.173783789,2.268918923,Four-Seam Fastball
+4.4,0.211081087,2.16540541,Four-Seam Fastball
+4.5,0.248378385,2.061891897,Four-Seam Fastball
+4.6,0.285675683,1.958378384,Four-Seam Fastball
+4.7,0.322972981,1.854864871,Four-Seam Fastball
+4.8,0.360270279,1.751351358,Four-Seam Fastball
+4.9,0.397567577,1.647837845,Four-Seam Fastball
+5,0.434864875,1.544324332,Four-Seam Fastball
+5.1,0.472162173,1.440810819,Four-Seam Fastball
+5.2,0.509459471,1.337297306,Four-Seam Fastball
+5.3,0.546756769,1.233783793,Four-Seam Fastball
+5.4,0.584054067,1.13027028,Four-Seam Fastball
+5.5,0.621351365,1.026756767,Four-Seam Fastball
 3.8,-0.05,2.89,Four-Seam Fastball
 3.9,-0.05,2.89,Four-Seam Fastball
 4,-0.05,2.89,Four-Seam Fastball
@@ -152,6 +217,16 @@
 4.8,-0.05,2.89,Four-Seam Fastball
 4.9,-0.05,2.89,Four-Seam Fastball
 5,-0.05,2.89,Four-Seam Fastball
+5.1,-0.05,2.89,Four-Seam Fastball
+5.2,-0.05,2.89,Four-Seam Fastball
+5.3,-0.05,2.89,Four-Seam Fastball
+5.4,-0.05,2.89,Four-Seam Fastball
+5.5,-0.05,2.89,Four-Seam Fastball
+5.6,-0.05,2.89,Four-Seam Fastball
+5.7,-0.05,2.89,Four-Seam Fastball
+5.8,-0.05,2.89,Four-Seam Fastball
+5.9,-0.05,2.89,Four-Seam Fastball
+6,-0.05,2.89,Four-Seam Fastball
 0,-1.55,6.68,Slider
 0.1,-1.494,6.5575,Slider
 0.2,-1.438,6.435,Slider
@@ -193,6 +268,21 @@
 3.8,0.578,2.025,Slider
 3.9,0.634,1.9025,Slider
 4,0.69,1.78,Slider
+4.1,0.746,1.6575,Slider
+4.2,0.802,1.535,Slider
+4.3,0.858,1.4125,Slider
+4.4,0.914,1.29,Slider
+4.5,0.97,1.1675,Slider
+4.6,1.026,1.045,Slider
+4.7,1.082,0.9225,Slider
+4.8,1.138,0.8,Slider
+4.9,1.194,0.6775,Slider
+5,1.25,0.555,Slider
+5.1,1.306,0.4325,Slider
+5.2,1.362,0.31,Slider
+5.3,1.418,0.1875,Slider
+5.4,1.474,0.065,Slider
+5.5,1.53,0,Slider
 4.1,0.69,1.78,Slider
 4.2,0.69,1.78,Slider
 4.3,0.69,1.78,Slider
@@ -203,3 +293,13 @@
 4.8,0.69,1.78,Slider
 4.9,0.69,1.78,Slider
 5,0.69,1.78,Slider
+5.1,0.69,1.78,Slider
+5.2,0.69,1.78,Slider
+5.3,0.69,1.78,Slider
+5.4,0.69,1.78,Slider
+5.5,0.69,1.78,Slider
+5.6,0.69,1.78,Slider
+5.7,0.69,1.78,Slider
+5.8,0.69,1.78,Slider
+5.9,0.69,1.78,Slider
+6,0.69,1.78,Slider

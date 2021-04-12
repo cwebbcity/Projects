@@ -1,4 +1,5 @@
 ﻿PitcherID,PitcherName,PitchType,Velocity,NumPitches,TotalPitches,Frequency
+999998,Composite Starter,Changeup,78,2653,289170,0
 999998,Composite Starter,Changeup,79,2653,289170,0.4
 999999,Composite Starter,Changeup,80,2653,289170,0.84
 999999,Composite Starter,Changeup,81,3154,289170,1.21
@@ -11,6 +12,8 @@
 999999,Composite Starter,Changeup,88,2902,289170,1.1
 999999,Composite Starter,Changeup,89,1429,289170,0.61
 999999,Composite Starter,Changeup,90,-44,289170,0.22
+999999,Composite Starter,Changeup,91,-44,289170,0
+999999,Composite Starter,Curveball,71,1733,289170,0
 999999,Composite Starter,Curveball,72,1733,289170,0.35
 999999,Composite Starter,Curveball,73,1733,289170,0.6
 999999,Composite Starter,Curveball,74,2345,289170,0.9
@@ -24,6 +27,8 @@
 999999,Composite Starter,Curveball,82,2474,289170,0.8
 999999,Composite Starter,Curveball,83,2474,289170,0.4
 999999,Composite Starter,Curveball,84,2474,289170,0.2
+999999,Composite Starter,Curveball,85,2474,289170,0
+999999,Composite Starter,Four-Seam Fastball,86,3009,289170,0
 999999,Composite Starter,Four-Seam Fastball,87,3009,289170,0.4
 999999,Composite Starter,Four-Seam Fastball,88,3009,289170,0.9
 999999,Composite Starter,Four-Seam Fastball,89,6808,289170,2.3
@@ -36,6 +41,8 @@
 999999,Composite Starter,Four-Seam Fastball,96,8158,289170,3.001
 999999,Composite Starter,Four-Seam Fastball,97,4942,289170,1.49
 999999,Composite Starter,Four-Seam Fastball,98,4942,289170,0.4
+999999,Composite Starter,Four-Seam Fastball,99,4942,289170,0
+999999,Composite Starter,Slider,78,3031,289170,0
 999999,Composite Starter,Slider,79,3031,289170,0.6
 999999,Composite Starter,Slider,80,3031,289170,0.8
 999999,Composite Starter,Slider,81,3781,289170,1.595
@@ -48,3 +55,4 @@
 999999,Composite Starter,Slider,88,3833,289170,1.615
 999999,Composite Starter,Slider,89,2324,289170,0.8
 999999,Composite Starter,Slider,90,2324,289170,0.2
+999999,Composite Starter,Slider,91,2324,289170,0

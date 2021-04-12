@@ -1,81 +1,41 @@
 ﻿PitcherID,PitcherName,PitchType,Velocity,NumPitches,TotalPitches,Frequency
-999999,Composite Starter,Changeup,76,641,289170,0.22
-999999,Composite Starter,Changeup,77,740,289170,0.26
-999999,Composite Starter,Changeup,78,1457,289170,0.5
-999999,Composite Starter,Changeup,79,2204,289170,0.76
-999999,Composite Starter,Changeup,80,2653,289170,0.92
-999999,Composite Starter,Changeup,81,3154,289170,1.09
-999999,Composite Starter,Changeup,82,4184,289170,1.45
-999999,Composite Starter,Changeup,83,5866,289170,2.03
-999999,Composite Starter,Changeup,84,6639,289170,2.3
-999999,Composite Starter,Changeup,85,6531,289170,2.26
-999999,Composite Starter,Changeup,86,5403,289170,1.87
-999999,Composite Starter,Changeup,87,4371,289170,1.51
-999999,Composite Starter,Changeup,88,2902,289170,1
-999999,Composite Starter,Changeup,89,1429,289170,0.49
-999999,Composite Starter,Changeup,90,739,289170,0.26
-999999,Composite Starter,Changeup,91,417,289170,0.14
-999999,Composite Starter,Changeup,92,190,289170,0.07
-999999,Composite Starter,Changeup,93,41,289170,0.01
-999999,Composite Starter,Curveball,68,310,289170,0.11
-999999,Composite Starter,Curveball,69,258,289170,0.09
-999999,Composite Starter,Curveball,70,416,289170,0.14
-999999,Composite Starter,Curveball,71,670,289170,0.23
-999999,Composite Starter,Curveball,72,1131,289170,0.39
-999999,Composite Starter,Curveball,73,1733,289170,0.6
-999999,Composite Starter,Curveball,74,2345,289170,0.81
-999999,Composite Starter,Curveball,75,3054,289170,1.06
-999999,Composite Starter,Curveball,76,3429,289170,1.19
-999999,Composite Starter,Curveball,77,3973,289170,1.37
-999999,Composite Starter,Curveball,78,4288,289170,1.48
-999999,Composite Starter,Curveball,79,4574,289170,1.58
-999999,Composite Starter,Curveball,80,4501,289170,1.56
-999999,Composite Starter,Curveball,81,3770,289170,1.3
-999999,Composite Starter,Curveball,82,2474,289170,0.86
-999999,Composite Starter,Curveball,83,1062,289170,0.37
-999999,Composite Starter,Curveball,84,441,289170,0.15
-999999,Composite Starter,Curveball,85,244,289170,0.08
-999999,Composite Starter,Curveball,86,135,289170,0.05
-999999,Composite Starter,Curveball,87,55,289170,0.02
-999999,Composite Starter,Four-Seam Fastball,81,42,289170,0.01
-999999,Composite Starter,Four-Seam Fastball,82,95,289170,0.03
-999999,Composite Starter,Four-Seam Fastball,83,167,289170,0.06
-999999,Composite Starter,Four-Seam Fastball,84,205,289170,0.07
-999999,Composite Starter,Four-Seam Fastball,85,309,289170,0.11
-999999,Composite Starter,Four-Seam Fastball,86,634,289170,0.22
-999999,Composite Starter,Four-Seam Fastball,87,1475,289170,0.51
-999999,Composite Starter,Four-Seam Fastball,88,3009,289170,1.04
-999999,Composite Starter,Four-Seam Fastball,89,6808,289170,2.35
-999999,Composite Starter,Four-Seam Fastball,90,13621,289170,4.71
-999999,Composite Starter,Four-Seam Fastball,91,20021,289170,6.92
-999999,Composite Starter,Four-Seam Fastball,92,24304,289170,8.4
-999999,Composite Starter,Four-Seam Fastball,93,24297,289170,8.4
-999999,Composite Starter,Four-Seam Fastball,94,19444,289170,6.72
-999999,Composite Starter,Four-Seam Fastball,95,12902,289170,4.46
-999999,Composite Starter,Four-Seam Fastball,96,8158,289170,2.82
-999999,Composite Starter,Four-Seam Fastball,97,4942,289170,1.71
-999999,Composite Starter,Four-Seam Fastball,98,1896,289170,0.66
-999999,Composite Starter,Four-Seam Fastball,99,378,289170,0.13
-999999,Composite Starter,Four-Seam Fastball,100,40,289170,0.01
-999999,Composite Starter,Slider,73,38,289170,0.02
-999999,Composite Starter,Slider,74,47,289170,0.02
-999999,Composite Starter,Slider,75,120,289170,0.04
-999999,Composite Starter,Slider,76,329,289170,0.11
-999999,Composite Starter,Slider,77,763,289170,0.26
-999999,Composite Starter,Slider,78,1476,289170,0.51
-999999,Composite Starter,Slider,79,2308,289170,0.8
-999999,Composite Starter,Slider,80,3031,289170,1.05
-999999,Composite Starter,Slider,81,3781,289170,1.31
-999999,Composite Starter,Slider,82,4714,289170,1.63
-999999,Composite Starter,Slider,83,6034,289170,2.09
-999999,Composite Starter,Slider,84,6970,289170,2.41
-999999,Composite Starter,Slider,85,7105,289170,2.46
-999999,Composite Starter,Slider,86,6560,289170,2.27
-999999,Composite Starter,Slider,87,5409,289170,1.87
-999999,Composite Starter,Slider,88,3833,289170,1.33
-999999,Composite Starter,Slider,89,2324,289170,0.8
-999999,Composite Starter,Slider,90,1381,289170,0.48
-999999,Composite Starter,Slider,91,823,289170,0.28
-999999,Composite Starter,Slider,92,564,289170,0.2
-999999,Composite Starter,Slider,93,314,289170,0.11
-999999,Composite Starter,Slider,94,73,289170,0.02
+999999,Composite Starter,Changeup,80,2653,289170,1.14
+999999,Composite Starter,Changeup,81,3154,289170,1.31
+999999,Composite Starter,Changeup,82,4184,289170,1.67
+999999,Composite Starter,Changeup,83,5866,289170,2.25
+999999,Composite Starter,Changeup,84,6639,289170,2.52
+999999,Composite Starter,Changeup,85,6531,289170,2.48
+999999,Composite Starter,Changeup,86,5403,289170,2.09
+999999,Composite Starter,Changeup,87,4371,289170,1.73
+999999,Composite Starter,Changeup,88,2902,289170,1.22
+999999,Composite Starter,Changeup,89,1429,289170,0.71
+999999,Composite Starter,Curveball,73,1733,289170,0.763
+999999,Composite Starter,Curveball,74,2345,289170,0.973
+999999,Composite Starter,Curveball,75,3054,289170,1.223
+999999,Composite Starter,Curveball,76,3429,289170,1.353
+999999,Composite Starter,Curveball,77,3973,289170,1.533
+999999,Composite Starter,Curveball,78,4288,289170,1.643
+999999,Composite Starter,Curveball,79,4574,289170,1.743
+999999,Composite Starter,Curveball,80,4501,289170,1.723
+999999,Composite Starter,Curveball,81,3770,289170,1.463
+999999,Composite Starter,Curveball,82,2474,289170,1.023
+999999,Composite Starter,Four-Seam Fastball,88,3009,289170,1.221
+999999,Composite Starter,Four-Seam Fastball,89,6808,289170,2.531
+999999,Composite Starter,Four-Seam Fastball,90,13621,289170,4.891
+999999,Composite Starter,Four-Seam Fastball,91,20021,289170,7.101
+999999,Composite Starter,Four-Seam Fastball,92,24304,289170,8.581
+999999,Composite Starter,Four-Seam Fastball,93,24297,289170,8.581
+999999,Composite Starter,Four-Seam Fastball,94,19444,289170,6.901
+999999,Composite Starter,Four-Seam Fastball,95,12902,289170,4.641
+999999,Composite Starter,Four-Seam Fastball,96,8158,289170,3.001
+999999,Composite Starter,Four-Seam Fastball,97,4942,289170,1.891
+999999,Composite Starter,Slider,80,3031,289170,1.335
+999999,Composite Starter,Slider,81,3781,289170,1.595
+999999,Composite Starter,Slider,82,4714,289170,1.915
+999999,Composite Starter,Slider,83,6034,289170,2.375
+999999,Composite Starter,Slider,84,6970,289170,2.695
+999999,Composite Starter,Slider,85,7105,289170,2.745
+999999,Composite Starter,Slider,86,6560,289170,2.555
+999999,Composite Starter,Slider,87,5409,289170,2.155
+999999,Composite Starter,Slider,88,3833,289170,1.615
+999999,Composite Starter,Slider,89,2324,289170,1.085

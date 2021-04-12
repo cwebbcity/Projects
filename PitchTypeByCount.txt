@@ -1,3 +1,4 @@
+Percentage, Count, PitchType
 3.38	,0-0,	CH
 63.08	,0-0,	FF
 15.64	,0-0,	SL

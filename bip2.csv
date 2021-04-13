@@ -1,0 +1,467 @@
+﻿x_loc,y_loc,pitchtype,events,bb_type
+226.7,246.2,Slider,double,line_drive
+-168.7,173.5,Slider,double,fly_ball
+-234.4,225.8,Slider,double,ground_ball
+-33.4,428.1,Slider,double,fly_ball
+-241.8,228.2,Four-Seam Fastball,double,fly_ball
+-205.3,251.6,Curveball,double,line_drive
+-147.5,140.3,Four-Seam Fastball,double,ground_ball
+-69.9,260.4,Four-Seam Fastball,double,fly_ball
+-95.8,356.9,Four-Seam Fastball,double,line_drive
+-214.7,299.7,Four-Seam Fastball,double,line_drive
+-229.3,225.8,Changeup,double,ground_ball
+-42.3,391.9,Slider,double,line_drive
+-167.8,290.9,Curveball,double,line_drive
+-225,264.5,Four-Seam Fastball,double,fly_ball
+182.8,230.8,Slider,double,line_drive
+-72.9,328.7,Four-Seam Fastball,double,line_drive
+213.1,268.9,Four-Seam Fastball,double,ground_ball
+-210.9,205.8,Curveball,double,ground_ball
+188.7,196.3,Slider,double,ground_ball
+95,392,Four-Seam Fastball,double,line_drive
+67.5,368,Four-Seam Fastball,double,line_drive
+80.5,122.5,Curveball,double,line_drive
+169.2,236.1,Four-Seam Fastball,double,line_drive
+50.8,75.4,Four-Seam Fastball,double,ground_ball
+-158.7,162,Changeup,double,fly_ball
+-92.6,104.1,Curveball,double,line_drive
+-110,400,Four-Seam Fastball,double,fly_ball
+-37.9,93.9,Four-Seam Fastball,error,ground_ball
+-48,97.7,Slider,error,ground_ball
+124.7,193.7,Curveball,error,ground_ball
+59.7,106.6,Four-Seam Fastball,error,ground_ball
+-73.7,87.9,Curveball,error,ground_ball
+253.3,328.9,Four-Seam Fastball,home run,fly_ball
+258.4,264.8,Four-Seam Fastball,home run,fly_ball
+137,376.4,Four-Seam Fastball,home run,fly_ball
+-155.7,371.3,Four-Seam Fastball,home run,fly_ball
+265.1,341.3,Four-Seam Fastball,home run,fly_ball
+14.9,440,Four-Seam Fastball,home run,fly_ball
+-288.5,292.8,Slider,home run,fly_ball
+-56.5,444.4,Four-Seam Fastball,home run,fly_ball
+223.3,369.8,Four-Seam Fastball,home run,fly_ball
+-184.5,378.5,Four-Seam Fastball,home run,fly_ball
+-35.9,424,Changeup,home run,fly_ball
+177.5,343.2,Slider,home run,fly_ball
+-242.3,288.3,Slider,home run,fly_ball
+78.3,419,Four-Seam Fastball,home run,fly_ball
+100.4,399.6,Four-Seam Fastball,home run,fly_ball
+201.6,364.4,Four-Seam Fastball,home run,fly_ball
+-32.9,446.3,Four-Seam Fastball,home run,fly_ball
+194.2,332.2,Slider,home run,fly_ball
+241.6,282.5,Slider,home run,fly_ball
+-59.4,408.7,Four-Seam Fastball,home run,fly_ball
+121.8,433.7,Four-Seam Fastball,home run,fly_ball
+-186.3,394.9,Four-Seam Fastball,home run,line_drive
+-233.7,297,Four-Seam Fastball,home run,fly_ball
+217.2,311.3,Four-Seam Fastball,home run,fly_ball
+256.4,355.9,Four-Seam Fastball,home run,fly_ball
+208.2,349.4,Curveball,home run,line_drive
+242.1,324.5,Slider,home run,line_drive
+-77.5,400.7,Four-Seam Fastball,home run,fly_ball
+-230.6,313.5,Four-Seam Fastball,home run,fly_ball
+266.2,317.1,Four-Seam Fastball,home run,fly_ball
+-149.1,403.2,Four-Seam Fastball,home run,fly_ball
+113.2,369.9,Four-Seam Fastball,out,line_drive
+-53.1,87.6,Changeup,out,popup
+109.5,276,Four-Seam Fastball,out,fly_ball
+93.9,324.1,Four-Seam Fastball,out,fly_ball
+86.7,128.9,Slider,out,ground_ball
+83.1,303.9,Slider,out,fly_ball
+-37.5,87.6,Slider,out,ground_ball
+-135.4,226.4,Four-Seam Fastball,out,fly_ball
+-58.2,99,Curveball,out,ground_ball
+55.6,362.7,Slider,out,fly_ball
+-32.8,106.6,Four-Seam Fastball,out,ground_ball
+11,112.6,Slider,out,ground_ball
+145.5,282.2,Slider,out,line_drive
+86.4,77.4,Four-Seam Fastball,out,ground_ball
+132.4,243.4,Slider,out,line_drive
+46.2,129.9,Slider,out,ground_ball
+44.1,161.3,Slider,out,popup
+-32.8,52.1,Slider,out,ground_ball
+25.5,126.9,Changeup,out,ground_ball
+34.4,102.8,Slider,out,ground_ball
+-55.6,96.4,Slider,out,ground_ball
+50.8,119.3,Slider,out,ground_ball
+-3.8,415.3,Four-Seam Fastball,out,fly_ball
+-52.9,106.1,Slider,out,popup
+-58.1,217.8,Curveball,out,fly_ball
+53.4,88.8,Changeup,out,ground_ball
+-25,417,Four-Seam Fastball,out,fly_ball
+-34.2,110.5,Curveball,out,ground_ball
+-144.4,247.7,Slider,out,line_drive
+63.5,109.1,Slider,out,ground_ball
+-198.5,206.7,Four-Seam Fastball,out,fly_ball
+66,173.5,Four-Seam Fastball,out,popup
+91.4,78.7,Slider,out,ground_ball
+-16.3,280.3,Four-Seam Fastball,out,fly_ball
+-74.3,336.4,Four-Seam Fastball,out,fly_ball
+4.5,236.5,Four-Seam Fastball,out,fly_ball
+212.7,264.7,Four-Seam Fastball,out,fly_ball
+0.1,344.6,Four-Seam Fastball,out,line_drive
+-44,-18.9,Four-Seam Fastball,out,popup
+-100.5,48.6,Four-Seam Fastball,out,popup
+88.7,224.5,Slider,out,fly_ball
+137.1,194.1,Curveball,out,fly_ball
+141.7,17,Four-Seam Fastball,out,popup
+-50.6,322.1,Four-Seam Fastball,out,line_drive
+16.5,180.1,Four-Seam Fastball,out,line_drive
+-50.6,118,Four-Seam Fastball,out,ground_ball
+80,81.3,Changeup,out,ground_ball
+12.5,46.6,Four-Seam Fastball,out,ground_ball
+75.5,385.2,Four-Seam Fastball,out,fly_ball
+-25.2,114.2,Curveball,out,ground_ball
+51,107.7,Slider,out,ground_ball
+22.4,152.2,Four-Seam Fastball,out,line_drive
+-5.1,345.9,Slider,out,fly_ball
+64.8,157.3,Four-Seam Fastball,out,ground_ball
+32.7,376.9,Curveball,out,fly_ball
+-132.2,167.5,Four-Seam Fastball,out,fly_ball
+-51.8,83.8,Slider,out,ground_ball
+0.4,411,Four-Seam Fastball,out,fly_ball
+108.7,287.9,Four-Seam Fastball,out,fly_ball
+-16.5,198.5,Four-Seam Fastball,out,popup
+85.6,81.4,Slider,out,ground_ball
+-46.1,137.5,Slider,out,ground_ball
+104.4,354.9,Four-Seam Fastball,out,fly_ball
+85,82.9,Changeup,out,ground_ball
+59.7,112.9,Four-Seam Fastball,out,ground_ball
+-40.4,91.4,Four-Seam Fastball,out,ground_ball
+91.8,91.1,Four-Seam Fastball,out,ground_ball
+-60.8,78.8,Slider,out,ground_ball
+-42.2,351.7,Curveball,out,line_drive
+68.6,138.3,Four-Seam Fastball,out,ground_ball
+-104,163.4,Four-Seam Fastball,out,popup
+30.5,334.9,Slider,out,line_drive
+63.5,327.2,Four-Seam Fastball,out,fly_ball
+-29.3,333.8,Slider,out,line_drive
+155.3,94.1,Four-Seam Fastball,out,popup
+136.2,286,Four-Seam Fastball,out,fly_ball
+58.4,111.7,Four-Seam Fastball,out,ground_ball
+50.8,129.4,Slider,out,ground_ball
+71.1,11.5,Four-Seam Fastball,out,popup
+98.8,272.6,Curveball,out,fly_ball
+49.4,362.7,Four-Seam Fastball,out,fly_ball
+68.5,76.5,Curveball,out,ground_ball
+-57.8,86.6,Curveball,out,ground_ball
+131.5,369.8,Four-Seam Fastball,out,fly_ball
+46.2,60.2,Slider,out,popup
+-40.4,101.5,Slider,out,ground_ball
+139.6,81.3,Four-Seam Fastball,out,popup
+-68.8,76.3,Slider,out,ground_ball
+-55.7,118,Changeup,out,ground_ball
+54.7,76.2,Four-Seam Fastball,out,popup
+-50.3,82.1,Four-Seam Fastball,out,ground_ball
+-39.3,47.2,Curveball,out,ground_ball
+-44.2,81.9,Slider,out,ground_ball
+10.3,139.6,Curveball,out,ground_ball
+86.4,78.7,Slider,out,ground_ball
+77.9,72.4,Curveball,out,ground_ball
+-51.8,87.6,Four-Seam Fastball,out,popup
+44.5,123.1,Curveball,out,ground_ball
+-29.1,106.2,Slider,out,ground_ball
+13.9,246,Slider,out,fly_ball
+-210.8,298.7,Four-Seam Fastball,out,fly_ball
+84.8,84.9,Curveball,out,ground_ball
+-17.6,101.5,Slider,out,ground_ball
+181.3,281.2,Four-Seam Fastball,out,fly_ball
+54.8,91.6,Slider,out,ground_ball
+-45.5,61,Changeup,out,ground_ball
+-66.9,150.1,Slider,out,popup
+90.1,142.1,Four-Seam Fastball,out,ground_ball
+-37.9,93.9,Curveball,out,ground_ball
+44.5,48.3,Slider,out,ground_ball
+61.4,273.6,Four-Seam Fastball,out,fly_ball
+6.9,187.4,Four-Seam Fastball,out,line_drive
+146,301.4,Four-Seam Fastball,out,fly_ball
+-46.8,153.5,Four-Seam Fastball,out,popup
+72.1,85.1,Slider,out,popup
+-45.5,111.7,Slider,out,popup
+186.7,331.8,Slider,out,fly_ball
+85.1,78.7,Slider,out,ground_ball
+-15.4,117,Slider,out,ground_ball
+59.4,95,Four-Seam Fastball,out,line_drive
+-53.9,-19.2,Slider,out,popup
+-68.3,77.4,Slider,out,ground_ball
+156.5,274.5,Changeup,out,line_drive
+-36.6,71.1,Slider,out,ground_ball
+88.2,85.1,Slider,out,ground_ball
+-83.5,157.3,Four-Seam Fastball,out,fly_ball
+6.7,41.6,Slider,out,ground_ball
+3.2,384.3,Four-Seam Fastball,out,fly_ball
+184.4,211.3,Slider,out,fly_ball
+39.8,139.8,Curveball,out,ground_ball
+-26.1,39.7,Slider,out,ground_ball
+78.7,134.5,Curveball,out,ground_ball
+65.5,357.2,Curveball,out,fly_ball
+-63.2,78.7,Slider,out,ground_ball
+-32.8,71.1,Slider,out,ground_ball
+-91.2,263.7,Curveball,out,fly_ball
+-58.8,241.2,Four-Seam Fastball,out,fly_ball
+187.7,129.4,Slider,out,fly_ball
+30.2,174.5,Slider,out,line_drive
+-45.5,76.2,Curveball,out,ground_ball
+-39.8,374.4,Four-Seam Fastball,out,line_drive
+90.1,129.4,Slider,out,ground_ball
+-48,72.4,Slider,out,ground_ball
+-128.3,295.3,Four-Seam Fastball,out,line_drive
+73.6,380.6,Four-Seam Fastball,out,fly_ball
+-129.7,330.4,Slider,out,fly_ball
+68.8,103,Curveball,out,ground_ball
+27.3,247.9,Four-Seam Fastball,out,fly_ball
+-46.9,365,Curveball,out,line_drive
+15.1,340.7,Four-Seam Fastball,out,fly_ball
+36,375.6,Curveball,out,fly_ball
+-0.6,293,Four-Seam Fastball,out,line_drive
+-74.7,30,Four-Seam Fastball,out,popup
+-45.5,96.5,Curveball,out,ground_ball
+103.4,369.3,Slider,out,line_drive
+-190.8,236.9,Slider,out,line_drive
+80,380.7,Four-Seam Fastball,out,fly_ball
+-15.1,129.4,Slider,out,ground_ball
+-82.3,142.1,Slider,out,popup
+102.2,24,Slider,out,popup
+172,222.9,Changeup,out,fly_ball
+-2.4,40.7,Slider,out,ground_ball
+-38.6,104.5,Four-Seam Fastball,out,ground_ball
+50.8,124.4,Four-Seam Fastball,out,ground_ball
+83.2,209.1,Slider,out,popup
+165.5,294.3,Four-Seam Fastball,out,fly_ball
+-109.8,318,Slider,out,line_drive
+35,355.4,Four-Seam Fastball,out,line_drive
+49.3,-25.9,Slider,out,popup
+71.1,266.3,Slider,out,line_drive
+-47.6,71.3,Four-Seam Fastball,out,line_drive
+-22.7,112.9,Curveball,out,ground_ball
+76.2,72.4,Slider,out,ground_ball
+-44.3,289.9,Four-Seam Fastball,out,fly_ball
+-30.3,116.7,Slider,out,ground_ball
+-13.3,247.4,Curveball,out,fly_ball
+-134.4,216.8,Slider,out,fly_ball
+158.6,217.4,Four-Seam Fastball,out,fly_ball
+-10.4,88.5,Slider,out,ground_ball
+9,11.5,Slider,out,ground_ball
+53.2,285,Four-Seam Fastball,out,fly_ball
+-17.6,45.7,Four-Seam Fastball,out,ground_ball
+71.4,92.2,Slider,out,ground_ball
+-62.6,66.3,Slider,out,ground_ball
+-41.8,114.3,Slider,out,ground_ball
+54.7,112.9,Curveball,out,ground_ball
+104.2,299.8,Four-Seam Fastball,out,fly_ball
+11,39.4,Changeup,out,ground_ball
+-233.1,217,Four-Seam Fastball,out,fly_ball
+-15.1,126.9,Slider,out,ground_ball
+-20.1,92.7,Slider,out,ground_ball
+84.5,328.5,Slider,out,line_drive
+81.3,91.4,Slider,out,ground_ball
+-10,26.7,Four-Seam Fastball,out,popup
+-41.6,113.6,Changeup,out,ground_ball
+43.5,123.7,Curveball,out,ground_ball
+-36.6,88.8,Curveball,out,line_drive
+55.9,159.8,Four-Seam Fastball,out,popup
+-14.2,366.4,Slider,out,line_drive
+129.7,70.8,Curveball,out,popup
+84.7,311.5,Slider,out,fly_ball
+66.1,81.3,Changeup,out,ground_ball
+64.2,63.7,Changeup,out,ground_ball
+43.5,114.7,Four-Seam Fastball,out,ground_ball
+-41.7,129.4,Slider,out,ground_ball
+-16.3,284.1,Four-Seam Fastball,out,fly_ball
+126.9,58.4,Slider,out,popup
+-24.5,131.3,Slider,out,ground_ball
+49,348.8,Slider,out,fly_ball
+-102.2,268.5,Slider,out,line_drive
+-40.3,135.1,Slider,out,line_drive
+54.6,349.9,Slider,out,fly_ball
+-38,109.2,Four-Seam Fastball,out,ground_ball
+91.6,261,Curveball,out,fly_ball
+-156.1,273.5,Four-Seam Fastball,out,line_drive
+61.7,122.2,Curveball,out,ground_ball
+18.9,-42.6,Four-Seam Fastball,out,popup
+68.6,72.4,Curveball,out,ground_ball
+-72.8,338.1,Changeup,out,line_drive
+111.4,64.3,Four-Seam Fastball,out,popup
+43.2,128.2,Four-Seam Fastball,out,ground_ball
+69.9,68.6,Slider,out,ground_ball
+-36.9,139.5,Curveball,out,line_drive
+-101.3,61,Four-Seam Fastball,out,popup
+83.8,78.7,Four-Seam Fastball,out,ground_ball
+-9.8,231.9,Curveball,out,fly_ball
+38.7,119.5,Slider,out,ground_ball
+-107.6,285.4,Slider,out,line_drive
+119.3,62.2,Four-Seam Fastball,out,popup
+76.2,82.5,Curveball,out,ground_ball
+-37.9,77.4,Slider,out,ground_ball
+76.2,139.6,Slider,out,ground_ball
+200.6,241.9,Four-Seam Fastball,out,line_drive
+23.8,150.2,Slider,out,line_drive
+76.3,74.3,Four-Seam Fastball,out,ground_ball
+-36.6,122.2,Four-Seam Fastball,out,popup
+-20,232,Four-Seam Fastball,out,fly_ball
+24.2,109.1,Changeup,out,popup
+-5.6,358,Slider,out,line_drive
+11.8,-51.6,Four-Seam Fastball,out,popup
+63.5,97.7,Four-Seam Fastball,out,ground_ball
+-17,363.3,Four-Seam Fastball,out,line_drive
+136.9,323.5,Slider,out,fly_ball
+-17.7,95.1,Slider,out,ground_ball
+-65.1,287.9,Four-Seam Fastball,out,fly_ball
+91.3,298,Four-Seam Fastball,out,line_drive
+-213.1,228.8,Changeup,out,line_drive
+-56.9,78.7,Four-Seam Fastball,out,ground_ball
+30.3,127,Slider,out,ground_ball
+0.3,39.1,Changeup,out,ground_ball
+157.3,99,Four-Seam Fastball,out,popup
+84.4,96.5,Curveball,out,ground_ball
+38.2,38.1,Four-Seam Fastball,out,popup
+8.1,165.9,Curveball,out,ground_ball
+65,119.8,Slider,out,ground_ball
+-47.6,240.3,Four-Seam Fastball,out,fly_ball
+54.7,121.8,Changeup,out,popup
+-9.7,17.9,Slider,out,ground_ball
+23,143.4,Four-Seam Fastball,out,popup
+88.7,141.3,Curveball,out,line_drive
+-10,383.1,Four-Seam Fastball,out,line_drive
+35.7,119.2,Slider,out,popup
+8.9,379.3,Slider,out,fly_ball
+-68.3,76.2,Four-Seam Fastball,out,popup
+-78.4,361.5,Four-Seam Fastball,out,fly_ball
+5,379,Four-Seam Fastball,out,fly_ball
+86.6,83.7,Curveball,out,line_drive
+85.1,82.5,Curveball,out,ground_ball
+-11.4,320.3,Changeup,out,fly_ball
+-94.6,304.4,Four-Seam Fastball,out,fly_ball
+65.3,203.3,Slider,out,fly_ball
+2.5,268.3,Slider,out,fly_ball
+126.1,200.5,Slider,out,fly_ball
+158.7,254.7,Slider,out,line_drive
+-37.4,276.9,Curveball,out,fly_ball
+-102.4,371.5,Curveball,out,fly_ball
+55.6,120.6,Four-Seam Fastball,out,popup
+188,299,Four-Seam Fastball,out,line_drive
+-67.2,296.9,Slider,out,fly_ball
+44.5,61,Slider,out,ground_ball
+46.5,229.7,Four-Seam Fastball,out,fly_ball
+-32.3,114.7,Slider,out,ground_ball
+-78.9,88.8,Curveball,out,line_drive
+76.2,72.4,Curveball,out,ground_ball
+53.2,365.1,Four-Seam Fastball,out,line_drive
+56.3,341.7,Four-Seam Fastball,out,line_drive
+156.1,276.5,Curveball,out,fly_ball
+64.8,315.8,Slider,out,fly_ball
+-2.3,397.4,Four-Seam Fastball,out,fly_ball
+67.6,293.3,Slider,out,fly_ball
+154.3,294.9,Slider,out,fly_ball
+-202.4,196.1,Four-Seam Fastball,out,fly_ball
+-26.5,114.2,Slider,out,ground_ball
+76.5,98,Curveball,out,ground_ball
+58.5,101.7,Slider,out,ground_ball
+-91.6,249.5,Slider,out,fly_ball
+44.5,121.8,Slider,out,popup
+49.9,281.1,Slider,out,fly_ball
+-46.9,100.2,Slider,out,ground_ball
+59.8,76.9,Four-Seam Fastball,out,ground_ball
+4.7,33.6,Slider,out,ground_ball
+8.5,221.1,Four-Seam Fastball,out,popup
+-246.6,260,Slider,out,fly_ball
+92.8,206.7,Changeup,out,fly_ball
+-12.1,32.2,Curveball,out,ground_ball
+-16.3,86.3,Slider,out,ground_ball
+172.2,321.6,Slider,out,fly_ball
+158.8,222.6,Four-Seam Fastball,out,fly_ball
+-13.3,131.7,Curveball,out,ground_ball
+179.3,273.6,Four-Seam Fastball,out,line_drive
+152.4,252.8,Slider,out,line_drive
+107.9,109.5,Slider,out,popup
+58.9,104.7,Slider,out,ground_ball
+-184.4,315.9,Curveball,out,fly_ball
+-30.2,53.3,Slider,out,ground_ball
+-78.6,291.5,Changeup,out,line_drive
+-27.8,58.4,Curveball,out,ground_ball
+-45.5,183.9,Curveball,out,popup
+-60.7,234,Slider,out,fly_ball
+100.3,40.7,Slider,out,popup
+-0.9,311.3,Curveball,out,fly_ball
+78.2,121.4,Four-Seam Fastball,out,line_drive
+45.8,67.3,Four-Seam Fastball,out,ground_ball
+56.5,176.4,Four-Seam Fastball,out,popup
+56,49,Curveball,out,ground_ball
+-35.2,116.8,Four-Seam Fastball,out,ground_ball
+-65.4,361.4,Four-Seam Fastball,out,fly_ball
+-61.9,343,Changeup,out,line_drive
+-16.6,260.4,Four-Seam Fastball,out,fly_ball
+84.3,79,Slider,out,ground_ball
+4.6,293.4,Four-Seam Fastball,out,fly_ball
+103.2,288.8,Slider,out,fly_ball
+179,292.3,Four-Seam Fastball,out,fly_ball
+127.5,141.9,Slider,single,line_drive
+-153.6,269,Slider,single,line_drive
+-46.8,218.2,Slider,single,ground_ball
+-63.4,293.1,Curveball,single,line_drive
+-107.6,263.8,Curveball,single,ground_ball
+-153.1,228,Four-Seam Fastball,single,line_drive
+-20.3,49.7,Curveball,single,ground_ball
+-41.7,67.3,Slider,single,ground_ball
+91.4,233.4,Four-Seam Fastball,single,ground_ball
+143,251.1,Four-Seam Fastball,single,line_drive
+139.9,225,Curveball,single,line_drive
+-78.5,228.3,Curveball,single,ground_ball
+171.3,227.2,Slider,single,line_drive
+78.7,218.2,Four-Seam Fastball,single,ground_ball
+93.2,298.4,Slider,single,line_drive
+-194.7,273.3,Slider,single,line_drive
+101.2,209.2,Curveball,single,ground_ball
+-87,188.6,Slider,single,fly_ball
+124.8,253.8,Four-Seam Fastball,single,line_drive
+119.5,264.9,Slider,single,line_drive
+-70.3,286.8,Curveball,single,line_drive
+4.5,229.8,Four-Seam Fastball,single,fly_ball
+73.2,295.8,Four-Seam Fastball,single,line_drive
+-46.1,37.4,Curveball,single,ground_ball
+69.1,159.2,Curveball,single,line_drive
+-125.3,237,Four-Seam Fastball,single,ground_ball
+-115.4,216.4,Slider,single,line_drive
+92.3,313.9,Four-Seam Fastball,single,line_drive
+107,138,Slider,single,line_drive
+-143,244.6,Four-Seam Fastball,single,ground_ball
+44.5,270.1,Four-Seam Fastball,single,ground_ball
+-13.5,200.8,Slider,single,line_drive
+-62.8,53.6,Slider,single,ground_ball
+-165.2,335.7,Four-Seam Fastball,single,line_drive
+172,210.6,Curveball,single,line_drive
+73.7,148.4,Curveball,single,ground_ball
+109.2,225.8,Slider,single,fly_ball
+-2.1,143.4,Curveball,single,ground_ball
+136.2,216.6,Slider,single,line_drive
+66.5,279.9,Four-Seam Fastball,single,line_drive
+145,205.2,Four-Seam Fastball,single,line_drive
+102,153.9,Four-Seam Fastball,single,line_drive
+-114.3,227,Four-Seam Fastball,single,line_drive
+-112.6,202.4,Four-Seam Fastball,single,line_drive
+-0.2,238.5,Slider,single,fly_ball
+-92.8,222,Curveball,single,ground_ball
+-102.5,261.3,Four-Seam Fastball,single,ground_ball
+-4.1,294.6,Slider,single,line_drive
+99.7,245.3,Four-Seam Fastball,single,line_drive
+103.8,282.4,Four-Seam Fastball,single,line_drive
+92,133.7,Slider,single,line_drive
+-57.8,265.1,Four-Seam Fastball,single,line_drive
+-86.1,235.9,Four-Seam Fastball,single,ground_ball
+5.1,245.3,Curveball,single,ground_ball
+-30.3,314.5,Four-Seam Fastball,single,ground_ball
+104.9,187.1,Slider,single,fly_ball
+-36.6,280.2,Slider,single,line_drive
+56.7,210.7,Curveball,single,line_drive
+-40.4,280.3,Four-Seam Fastball,single,ground_ball
+-129.3,207.3,Four-Seam Fastball,single,line_drive
+-36.7,330.6,Curveball,single,ground_ball
+-94.7,215.5,Changeup,single,line_drive
+-165.6,223,Four-Seam Fastball,single,line_drive
+-152.5,340.1,Slider,triple,line_drive
+-59.6,398.6,Four-Seam Fastball,triple,fly_ball
+216.9,248.6,Four-Seam Fastball,triple,line_drive
+8,423.1,Four-Seam Fastball,triple,fly_ball
+75.3,359.5,Four-Seam Fastball,triple,line_drive
+79,379.5,Four-Seam Fastball,triple,line_drive
+240.4,266.7,Four-Seam Fastball,triple,fly_ball

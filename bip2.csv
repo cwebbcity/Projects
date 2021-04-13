@@ -1,4 +1,4 @@
-﻿x_loc,y_loc,pitchtype,events,bb_type
+﻿x_loc,y_loc,pitchtype,outcomes,bb_type
 226.7,246.2,Slider,double,line_drive
 -168.7,173.5,Slider,double,fly_ball
 -234.4,225.8,Slider,double,ground_ball

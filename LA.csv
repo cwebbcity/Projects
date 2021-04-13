@@ -1,0 +1,467 @@
+﻿launchangle,launchspeed,pitchtype,events
+24,96,Slider,double
+43,73,Slider,double
+0,102,Slider,double
+22,103,Slider,double
+29,90,Four-Seam Fastball,double
+22,94,Curveball,double
+8,83,Four-Seam Fastball,double
+55,99,Four-Seam Fastball,double
+19,101,Four-Seam Fastball,double
+18,108,Four-Seam Fastball,double
+5,90,Changeup,double
+18,103,Slider,double
+14,106,Curveball,double
+35,90,Four-Seam Fastball,double
+11,109,Slider,double
+11,104,Four-Seam Fastball,double
+6,104,Four-Seam Fastball,double
+1,100,Curveball,double
+19,99,Four-Seam Fastball,double
+18,107,Four-Seam Fastball,double
+-13,92,Slider,double
+13,92,Curveball,double
+23,100,Four-Seam Fastball,double
+-1,106,Four-Seam Fastball,double
+54,77,Changeup,double
+6,108,Curveball,double
+25,101,Four-Seam Fastball,double
+-9,96,Four-Seam Fastball,error
+-4,91,Slider,error
+-22,93,Curveball,error
+8,68,Curveball,error
+-3,96,Four-Seam Fastball,error
+35,105,Four-Seam Fastball,home run
+24,103,Four-Seam Fastball,home run
+38,103,Four-Seam Fastball,home run
+30,101,Four-Seam Fastball,home run
+31,105,Four-Seam Fastball,home run
+30,96,Slider,home run
+33,93,Four-Seam Fastball,home run
+29,108,Four-Seam Fastball,home run
+27,100,Four-Seam Fastball,home run
+30,106,Four-Seam Fastball,home run
+26,102,Changeup,home run
+26,99,Four-Seam Fastball,home run
+32,91,Slider,home run
+33,103,Four-Seam Fastball,home run
+30,106,Four-Seam Fastball,home run
+24,105,Four-Seam Fastball,home run
+32,107,Four-Seam Fastball,home run
+31,103,Four-Seam Fastball,home run
+22,106,Slider,home run
+34,93,Slider,home run
+36,103,Four-Seam Fastball,home run
+20,109,Four-Seam Fastball,home run
+33,88,Slider,home run
+30,98,Four-Seam Fastball,home run
+35,103,Four-Seam Fastball,home run
+24,102,Curveball,home run
+28,101,Four-Seam Fastball,home run
+23,102,Four-Seam Fastball,home run
+34,100,Slider,home run
+44,105,Four-Seam Fastball,home run
+31,106,Four-Seam Fastball,home run
+30,92,Four-Seam Fastball,out
+34,101,Four-Seam Fastball,out
+29,82,Changeup,out
+33,88,Four-Seam Fastball,out
+8,98,Slider,out
+33,81,Slider,out
+-15,83,Slider,out
+53,90,Four-Seam Fastball,out
+-1,98,Curveball,out
+-6,98,Curveball,out
+28,100,Four-Seam Fastball,out
+17,50,Slider,out
+14,106,Slider,out
+-2,105,Four-Seam Fastball,out
+17,87,Slider,out
+19,84,Slider,out
+58,71,Slider,out
+69,80,Changeup,out
+40,83,Four-Seam Fastball,out
+-2,97,Slider,out
+69,80,Four-Seam Fastball,out
+-29,91,Slider,out
+28,99,Four-Seam Fastball,out
+69,80,Four-Seam Fastball,out
+45,71,Curveball,out
+44,92,Four-Seam Fastball,out
+-39,53,Slider,out
+1,78,Curveball,out
+5,64,Slider,out
+0,78,Slider,out
+36,78,Four-Seam Fastball,out
+-21,82,Slider,out
+4,98,Slider,out
+49,84,Curveball,out
+-1,101,Four-Seam Fastball,out
+47,73,Four-Seam Fastball,out
+6,59,Slider,out
+21,89,Four-Seam Fastball,out
+81,68,Four-Seam Fastball,out
+87,72,Four-Seam Fastball,out
+43,73,Slider,out
+-2,98,Four-Seam Fastball,out
+-30,91,Changeup,out
+26,89,Four-Seam Fastball,out
+12,102,Slider,out
+48,103,Four-Seam Fastball,out
+59,80,Four-Seam Fastball,out
+64,79,Slider,out
+37,102,Four-Seam Fastball,out
+36,93,Slider,out
+44,95,Four-Seam Fastball,out
+13,80,Four-Seam Fastball,out
+41,95,Four-Seam Fastball,out
+-7,95,Four-Seam Fastball,out
+-21,82,Changeup,out
+57,94,Four-Seam Fastball,out
+-21,82,Slider,out
+-47,62,Slider,out
+76,71,Four-Seam Fastball,out
+56,75,Four-Seam Fastball,out
+15,80,Four-Seam Fastball,out
+-21,82,Slider,out
+38,100,Curveball,out
+16,99,Slider,out
+-17,104,Four-Seam Fastball,out
+1,89,Changeup,out
+-25,67,Slider,out
+-4,93,Slider,out
+43,100,Slider,out
+8,85,Slider,out
+38,100,Four-Seam Fastball,out
+-41,79,Curveball,out
+34,92,Four-Seam Fastball,out
+23,86,Slider,out
+46,89,Four-Seam Fastball,out
+44,93,Four-Seam Fastball,out
+-21,82,Slider,out
+-10,99,Four-Seam Fastball,out
+76,67,Four-Seam Fastball,out
+69,80,Four-Seam Fastball,out
+38,95,Four-Seam Fastball,out
+-34,63,Curveball,out
+4,103,Four-Seam Fastball,out
+31,100,Four-Seam Fastball,out
+17,98,Curveball,out
+-16,76,Slider,out
+69,80,Four-Seam Fastball,out
+-14,104,Four-Seam Fastball,out
+7,85,Changeup,out
+69,80,Four-Seam Fastball,out
+69,80,Four-Seam Fastball,out
+-48,72,Curveball,out
+69,80,Slider,out
+-35,84,Slider,out
+5,66,Slider,out
+56,89,Four-Seam Fastball,out
+-10,86,Four-Seam Fastball,out
+-30,84,Curveball,out
+4,97,Curveball,out
+49,79,Slider,out
+-3,47,Slider,out
+2,94,Curveball,out
+-14,78,Slider,out
+8,79,Changeup,out
+46,97,Four-Seam Fastball,out
+-1,65,Changeup,out
+-27,88,Four-Seam Fastball,out
+-8,89,Four-Seam Fastball,out
+5,103,Curveball,out
+2,63,Curveball,out
+51,91,Four-Seam Fastball,out
+21,86,Slider,out
+39,93,Four-Seam Fastball,out
+69,80,Four-Seam Fastball,out
+-6,68,Slider,out
+69,80,Slider,out
+34,95,Slider,out
+-33,55,Slider,out
+-13,60,Slider,out
+36,101,Four-Seam Fastball,out
+82,87,Slider,out
+-27,77,Slider,out
+69,80,Slider,out
+-2,77,Slider,out
+-4,87,Slider,out
+-2,103,Four-Seam Fastball,out
+-22,59,Slider,out
+-20,86,Slider,out
+43,82,Slider,out
+-8,90,Curveball,out
+69,80,Slider,out
+-17,90,Curveball,out
+33,97,Curveball,out
+-21,92,Slider,out
+-21,82,Slider,out
+-19,81,Curveball,out
+47,80,Four-Seam Fastball,out
+52,80,Slider,out
+12,100,Slider,out
+-22,85,Curveball,out
+20,98,Four-Seam Fastball,out
+39,89,Four-Seam Fastball,out
+-23,94,Slider,out
+38,91,Four-Seam Fastball,out
+38,101,Four-Seam Fastball,out
+38,91,Slider,out
+-26,78,Curveball,out
+44,75,Four-Seam Fastball,out
+25,92,Curveball,out
+-19,87,Slider,out
+37,97,Curveball,out
+34,57,Four-Seam Fastball,out
+69,80,Four-Seam Fastball,out
+7,76,Curveball,out
+28,91,Slider,out
+17,88,Slider,out
+30,93,Four-Seam Fastball,out
+43,94,Four-Seam Fastball,out
+69,80,Slider,out
+15,61,Four-Seam Fastball,out
+56,98,Changeup,out
+-56,54,Slider,out
+6,68,Four-Seam Fastball,out
+5,92,Four-Seam Fastball,out
+49,71,Slider,out
+-29,78,Slider,out
+18,97,Slider,out
+35,74,Curveball,out
+82,67,Slider,out
+22,88,Slider,out
+8,108,Four-Seam Fastball,out
+-13,97,Curveball,out
+-34,60,Slider,out
+-35,68,Changeup,out
+-10,101,Slider,out
+26,86,Four-Seam Fastball,out
+40,76,Slider,out
+55,92,Four-Seam Fastball,out
+-19,62,Slider,out
+-21,82,Slider,out
+44,84,Four-Seam Fastball,out
+33,76,Four-Seam Fastball,out
+-30,60,Slider,out
+26,79,Four-Seam Fastball,out
+-7,96,Slider,out
+4,74,Curveball,out
+32,80,Four-Seam Fastball,out
+-51,63,Changeup,out
+11,74,Curveball,out
+46,85,Four-Seam Fastball,out
+-12,70,Slider,out
+69,80,Slider,out
+44,89,Slider,out
+-23,81,Four-Seam Fastball,out
+1,104,Changeup,out
+19,99,Four-Seam Fastball,out
+-30,81,Slider,out
+79,76,Four-Seam Fastball,out
+17,101,Slider,out
+54,90,Curveball,out
+33,91,Slider,out
+11,81,Curveball,out
+-36,62,Changeup,out
+-29,77,Slider,out
+-3,83,Four-Seam Fastball,out
+-4,97,Slider,out
+69,80,Slider,out
+2,90,Curveball,out
+69,80,Four-Seam Fastball,out
+67,85,Slider,out
+9,106,Slider,out
+69,80,Curveball,out
+-12,92,Four-Seam Fastball,out
+-30,65,Slider,out
+17,95,Four-Seam Fastball,out
+-16,101,Four-Seam Fastball,out
+-4,93,Four-Seam Fastball,out
+6,104,Curveball,out
+23,89,Changeup,out
+-32,80,Four-Seam Fastball,out
+69,80,Four-Seam Fastball,out
+50,89,Slider,out
+9,94,Curveball,out
+-25,69,Curveball,out
+17,97,Four-Seam Fastball,out
+29,75,Slider,out
+22,52,Slider,out
+55,52,Four-Seam Fastball,out
+53,80,Four-Seam Fastball,out
+-10,103,Four-Seam Fastball,out
+33,92,Slider,out
+69,80,Four-Seam Fastball,out
+-14,86,Four-Seam Fastball,out
+40,79,Curveball,out
+3,95,Four-Seam Fastball,out
+-25,63,Slider,out
+34,79,Four-Seam Fastball,out
+31,80,Four-Seam Fastball,out
+24,88,Changeup,out
+57,97,Four-Seam Fastball,out
+-19,59,Slider,out
+24,80,Slider,out
+0,71,Slider,out
+39,80,Curveball,out
+75,51,Four-Seam Fastball,out
+24,97,Four-Seam Fastball,out
+47,87,Curveball,out
+11,102,Curveball,out
+69,80,Changeup,out
+21,92,Four-Seam Fastball,out
+27,80,Changeup,out
+-14,91,Slider,out
+21,102,Four-Seam Fastball,out
+33,77,Slider,out
+-40,77,Curveball,out
+32,89,Slider,out
+34,95,Four-Seam Fastball,out
+28,80,Slider,out
+69,80,Curveball,out
+-27,100,Slider,out
+40,89,Changeup,out
+2,93,Slider,out
+-21,68,Slider,out
+69,80,Four-Seam Fastball,out
+52,83,Slider,out
+69,80,Four-Seam Fastball,out
+25,88,Slider,out
+2,101,Curveball,out
+69,80,Four-Seam Fastball,out
+-45,80,Curveball,out
+69,80,Four-Seam Fastball,out
+52,90,Slider,out
+42,71,Four-Seam Fastball,out
+-2,82,Slider,out
+69,80,Four-Seam Fastball,out
+37,100,Curveball,out
+19,102,Four-Seam Fastball,out
+51,81,Curveball,out
+31,95,Slider,out
+-21,82,Slider,out
+34,99,Four-Seam Fastball,out
+-28,78,Curveball,out
+30,81,Curveball,out
+-25,68,Curveball,out
+-9,99,Slider,out
+15,66,Slider,out
+-4,80,Slider,out
+44,92,Slider,out
+69,80,Slider,out
+69,80,Changeup,out
+45,97,Slider,out
+41,78,Four-Seam Fastball,out
+-57,55,Slider,out
+22,93,Four-Seam Fastball,out
+-21,82,Curveball,out
+20,91,Four-Seam Fastball,out
+46,69,Changeup,out
+-54,62,Changeup,out
+34,100,Slider,out
+57,86,Four-Seam Fastball,out
+-50,65,Slider,out
+38,100,Four-Seam Fastball,out
+9,64,Curveball,out
+-7,78,Slider,out
+77,67,Slider,out
+33,85,Four-Seam Fastball,out
+41,86,Curveball,out
+53,92,Four-Seam Fastball,out
+8,105,Four-Seam Fastball,out
+37,83,Slider,out
+10,102,Curveball,out
+32,87,Slider,out
+-26,76,Slider,out
+11,91,Curveball,out
+51,73,Slider,out
+18,103,Four-Seam Fastball,out
+20,86,Slider,out
+57,67,Slider,out
+5,72,Slider,out
+39,98,Curveball,out
+-43,50,Slider,out
+56,89,Slider,out
+35,85,Four-Seam Fastball,out
+-30,75,Four-Seam Fastball,out
+60,82,Four-Seam Fastball,out
+-26,64,Curveball,out
+-15,76,Four-Seam Fastball,out
+37,96,Four-Seam Fastball,out
+52,100,Four-Seam Fastball,out
+41,83,Slider,out
+24,89,Changeup,out
+53,94,Four-Seam Fastball,out
+7,92,Slider,out
+14,76,Slider,single
+13,97,Slider,single
+3,99,Slider,single
+21,84,Curveball,single
+6,89,Curveball,single
+0,104,Four-Seam Fastball,single
+17,86,Slider,single
+-48,69,Slider,single
+4,104,Four-Seam Fastball,single
+20,84,Four-Seam Fastball,single
+15,93,Curveball,single
+14,97,Four-Seam Fastball,single
+28,78,Slider,single
+13,100,Four-Seam Fastball,single
+13,98,Four-Seam Fastball,single
+21,97,Slider,single
+5,94,Curveball,single
+-19,95,Four-Seam Fastball,single
+10,97,Four-Seam Fastball,single
+4,89,Curveball,single
+16,96,Curveball,single
+26,66,Slider,single
+7,95,Four-Seam Fastball,single
+-37,62,Curveball,single
+21,69,Curveball,single
+27,67,Four-Seam Fastball,single
+14,73,Slider,single
+7,93,Curveball,single
+14,82,Slider,single
+-3,101,Four-Seam Fastball,single
+20,83,Curveball,single
+12,79,Slider,single
+-10,41,Slider,single
+15,79,Changeup,single
+13,93,Slider,single
+14,91,Slider,single
+10,98,Four-Seam Fastball,single
+19,85,Four-Seam Fastball,single
+5,94,Curveball,single
+17,84,Four-Seam Fastball,single
+31,66,Slider,single
+19,98,Four-Seam Fastball,single
+15,92,Four-Seam Fastball,single
+12,90,Four-Seam Fastball,single
+31,67,Slider,single
+-16,91,Curveball,single
+11,89,Slider,single
+8,102,Slider,single
+14,91,Four-Seam Fastball,single
+14,82,Four-Seam Fastball,single
+1,105,Four-Seam Fastball,single
+10,93,Four-Seam Fastball,single
+36,54,Slider,single
+3,87,Curveball,single
+-14,93,Four-Seam Fastball,single
+33,64,Slider,single
+-6,103,Four-Seam Fastball,single
+11,97,Four-Seam Fastball,single
+6,100,Four-Seam Fastball,single
+12,95,Four-Seam Fastball,single
+-2,88,Curveball,single
+14,90,Curveball,single
+6,102,Curveball,single
+19,102,Slider,triple
+24,97,Four-Seam Fastball,triple
+2,97,Four-Seam Fastball,triple
+23,100,Four-Seam Fastball,triple
+16,106,Four-Seam Fastball,triple
+18,105,Four-Seam Fastball,triple
+30,96,Four-Seam Fastball,triple
